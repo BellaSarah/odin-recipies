@@ -1,6 +1,7 @@
-body {
+#body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
+    background-color: aqua;
 }
 
 .heading {
